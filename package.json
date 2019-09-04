@@ -1,0 +1,25 @@
+{
+  "name": "untis-to-google-calendar",
+  "version": "1.0.0",
+  "description": "Import your classes from Untis into Google Calendar automatically",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "untis",
+    "google",
+    "calendar",
+    "google",
+    "calendar",
+    "class",
+    "school"
+  ],
+  "author": "Noodles",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "node-cron": "^2.0.3",
+    "webuntis": "^1.8.1"
+  }
+}
